@@ -69,30 +69,30 @@ Typical algorithms used for such tasks include:
 
 | Metric | Score |
 |---------|-------|
-| **Accuracy** | **0.979** |
+| **Accuracy** | **0.9847** |
 | **Precision (Class 0)** | 0.99 |
 | **Recall (Class 0)** | 0.99 |
 | **F1-score (Class 0)** | 0.99 |
-| **Precision (Class 1)** | 0.94 |
-| **Recall (Class 1)** | 0.90 |
-| **F1-score (Class 1)** | 0.92 |
+| **Precision (Class 1)** | 0.95 |
+| **Recall (Class 1)** | 0.94 |
+| **F1-score (Class 1)** | 0.94 |
 
 **Classification Report:**
 ```
               precision    recall  f1-score   support
-           0       0.99      0.99      0.99       968
-           1       0.94      0.90      0.92       147
+           0       0.99      0.99      0.99       966
+           1       0.95      0.94      0.94       149
     accuracy                           0.98      1115
-   macro avg       0.96      0.95      0.95      1115
+   macro avg       0.96      0.95      0.97      1115
 weighted avg       0.98      0.98      0.98      1115
 ```
 
 ---
 
 ## 🧾 Results Summary
-- The model achieves **97.9% accuracy** on the test dataset.  
+- The model achieves **98.47% accuracy** on the test dataset.  
 - High **precision and recall** indicate strong performance for both classes.  
-- The slight drop in recall for class `1` suggests a few false negatives.
+
 
 ---
 
