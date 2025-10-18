@@ -1,4 +1,4 @@
-# 📊 Text Classification using Machine Learning
+# 📊 Text Classification using NLTK & Machine Learning
 
 This project demonstrates a complete workflow for **text classification** — including data cleaning, preprocessing, feature extraction, and model building — using Python and machine learning techniques.
 
@@ -59,8 +59,8 @@ Typical algorithms used for such tasks include:
 - Logistic Regression  
 - Naive Bayes  
 - Support Vector Machine (SVM)  
-- Random Forest  
-As Naive Bayes algorithm works well for email classification we have used it 
+- Random Forest
+  As Naive Bayes algorithm works well for email classification we have used it 
 ---
 
 ## 📈 Model Performance
