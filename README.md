@@ -60,6 +60,8 @@ Typical algorithms used for such tasks include:
 - Naive Bayes  
 - Support Vector Machine (SVM)  
 - Random Forest
+
+
   As Naive Bayes algorithm works well for email classification we have used it 
 ---
 
